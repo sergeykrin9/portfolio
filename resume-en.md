@@ -29,6 +29,10 @@ Experience building websites of varying complexity, designing interfaces in Figm
 
 Vyatka State University, Kirov, 2008. Faculty of Automation and Computer Engineering; systems engineer. Full-time, on-campus study.
 
+### Courses
+
+- **Claude Code in action** — Anthropic / Claude Academy. Completed 20 October 2026. [Completion badge](https://academy.claude.com/verify/e6863c8c53e08354f6b965c10d53ac99).
+
 ## Work preference
 
 My priority is remote project work from Vietnam (UTC+7). I also consider full-time roles.
